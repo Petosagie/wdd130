@@ -18,29 +18,9 @@
         <a href="#">Personal Website</a>
         <a href="#">Personal Siteplan</a>
       </nav>
-    <img src="images/osagie.jpg" alt="my photograph" width="150" height="150">
-    <h2>Osagie</h2>
-    <pre>
-Hello, I am Osagie Ohenhen from the ancient city of Benin, Nigeria. I am cheerful, kind, loving, eager to learn,
-determined person who get on well with all kinds of people. I always love to keep a positive attitude and 
-hard work doesn't bother me. I joined the church with members of my family in 1991. That is about 31 years ago,
-which looks like yesterday. It is a great and exciting experience being a member of the Church of Jesus Christ 
-of Latter-Day Saints. I am married and sealed in the temple to my lovely wife. We have four wonderful children. 
-The last two are twins(boys) and they are a year and five months old. They are such a joy to behold.
-
-My major is Applied Technology and my focus is web and computer programming.  I excited to be an online student
-in BYU- Idaho. I love to get additional skills and to be creative, web design gives me the opportunity to create
-something that is beautiful and functional from my computer.
-
-When I am less busy, I love watching movies especially TV series. I look forward to the release of two 
-great tv series later this year  “House of the Dragons” and “The Lord of the Rings: The Rings of Power”. 
-
-Cheers
+    <p> Osagie - WDD 130 </p>
           
            
 
 </body>
-<footer>
-Copyright © 2022 https://osagieohenhen.glitch.me
-</footer>
 </html>
