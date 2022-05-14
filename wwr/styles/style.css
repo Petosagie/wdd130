@@ -1,0 +1,71 @@
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+nav a {
+    text-align: center; 
+    color:  #0c0c0bb8;
+    text-decoration: none;
+}
+#hero-msg h1,  #hero-msg h4, .button-box, main section {
+    text-align: center; 
+    color:  #0c0c0bb8;  
+}
+
+#background {
+    height: 725px;
+}
+
+body {
+    background-color: #859db5; 
+}
+header {
+    background-color:#ede65fb8;
+}
+nav a:hover {
+    background-color: #3520ba;
+    color: #824417b8;  
+}
+.book, .join {
+    background-color: #91ba20;
+    text-decoration: none;
+}   
+.book:hover, .join:hover {
+    background-color: #955f7a;
+} 
+#background {
+    background-color: #78a2bc;   
+}         
+.msg {
+    background-color: #afcbc8;   
+}
+footer {
+    background-color: #ede65fb8;
+}
+.home-title{
+    color: #228217b8; 
+}
+.book:hover,.msg h2,.msg p,footer h3 {
+    color:  #0c0c0bb8;
+}
+footer a {
+    color:  #0c0c0bb8;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color:  #a20d0dbf;
+}
+.logo {
+    width: 80px;  
+}
+
+.icon {
+    width: 80px;
+}
+#hero-img {
+    width: 100%;  
+}  
+footer h3 a:hover{
+    text-decoration: underline;
+}            
