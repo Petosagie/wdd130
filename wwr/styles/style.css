@@ -9,7 +9,7 @@ nav a {
 }
 #hero-msg h1,  #hero-msg h4, .button-box, main section {
     text-align: center; 
-    color:  #0c0c0bb8;  
+    color:  #e5e5dcb8;  
 }
 
 #background {
@@ -17,18 +17,19 @@ nav a {
 }
 
 body {
-    background-color: #859db5; 
+    background-color: #2f659a; 
 }
 header {
     background-color:#ede65fb8;
 }
 nav a:hover {
     background-color: #3520ba;
-    color: #824417b8;  
+    color: #f8f4f0b8;  
 }
 .book, .join {
     background-color: #91ba20;
     text-decoration: none;
+    color: #252c13;
 }   
 .book:hover, .join:hover {
     background-color: #955f7a;
@@ -46,7 +47,7 @@ footer {
     color: #228217b8; 
 }
 .book:hover,.msg h2,.msg p,footer h3 {
-    color:  #0c0c0bb8;
+    color:  #12120ab8;
 }
 footer a {
     color:  #0c0c0bb8;
