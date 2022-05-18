@@ -26,6 +26,15 @@ nav a:hover {
     background-color: #3520ba;
     color: #f8f4f0b8;  
 }
+nav {
+    text-align: center;
+    text-decoration: none;
+} 
+
+a {
+    text-align: center;
+    text-decoration: none;
+}
 .book, .join {
     background-color: #91ba20;
     text-decoration: none;
