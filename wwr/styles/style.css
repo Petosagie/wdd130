@@ -20,6 +20,34 @@ main section {
     color: #e5e5dcb8;
 }
 
+#heror-msg h4 {
+    
+    /* display: none; */
+    /* background-color: #b3d8fd; */
+    text-align: center;
+    height:30px;
+   
+    color:black       ;
+    font-size: 30px;
+    font-weight:bold;
+    padding-left: 20px;
+    margin-top: -55px;
+    
+   
+    
+   
+
+    
+
+}
+#heror-msg h1,
+.button-box,
+main section {
+    text-align: center;
+    color: #eaf3e9e7;
+}
+
+
 #logo_link {
     padding-top: 5px;
     justify-self: center;
@@ -93,6 +121,7 @@ a {
     padding: 35px;
     margin-top: 150px;
     box-shadow: 5px 5px 10px #6f7364;
+    
 
 }
 
@@ -172,7 +201,11 @@ footer a:hover {
     grid-row: 1/2;
     margin-top: 100px;
 }
-
+#heror-msg {
+    grid-column: 2/3;
+    grid-row: 1/2;
+    margin-top: 100px;
+}
 footer h3 a:hover {
     text-decoration: underline;
 }
@@ -223,7 +256,64 @@ footer .social img {
 main section img {
     box-sizing: border-box;
 }
+.cardpg2-img {
+    border: 10px solid #d9c2a3;
+    width: 50%;
+    height: 250px;
+    transition: transform .5s;
+    box-shadow: 5px 5px 10px #6f7364;
+    float: left;
+    padding-left: 5px;
+    margin-right:10px;
+    text-align: right; 
+      
+}
 
+
+
+
+.rivers-box  p {
+    text-align: left; 
+    
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: 22px;
+   
+}
+
+.rivers-box h3 {
+    text-align: center; 
+    color: #eee560;
+    
+    
+   
+}
+h3 {
+    padding-left: 10px;
+}
+.rivers-box {
+    border: 10px solid #d9c2a3;
+    max-width: 100%;
+    line-height: 1.5em;
+    transition: transform .5s;
+    box-shadow: 5px 5px 10px #6f7364;
+    box-sizing: border-box;
+    padding:10px;
+    margin-top: 50px;
+    /* padding: auto; */
+}
+
+.rivers-name h2 {
+    text-align: center;
+    color: #d5c3d4;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}    
+
+.cardpg2-img:hover {
+    opacity: .6;
+    transform: scale(1.1);
+
+}
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
@@ -244,7 +334,9 @@ main section img {
     }
     #hero-msg h4 {
         display: none;
+    
     }
+    
     .home-title {
         font-size: 25px;
         color: #6f7364;
