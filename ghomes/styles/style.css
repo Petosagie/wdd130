@@ -14,6 +14,7 @@ nav a {
 }
 
 
+  
 
 .button-box,
 main section {
@@ -99,7 +100,7 @@ a {
 
     
 footer {
-    background-color: #ede65fb8;
+    background-color:  #d9c2a3;
     padding: 25px 50px;
     margin-top: 50px;
     display: flex;
@@ -531,4 +532,5 @@ textarea {
     footer {
         margin-top: 25px;
     }
+
 }
